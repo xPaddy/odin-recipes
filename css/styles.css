@@ -1,0 +1,30 @@
+body {
+   background-color: beige;
+}
+
+h1 {
+   font-size: 3rem;
+}
+
+.header {
+   text-align: center;
+}
+
+.header .preview {
+   border-radius: 10%;
+}
+
+h2 {
+   font-size: 2rem;
+}
+
+p,
+li,
+a {
+   font-size: 1.2rem;
+   line-height: 1.5;
+}
+
+footer {
+   text-align: center;
+}
